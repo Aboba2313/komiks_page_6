@@ -1,0 +1,36 @@
+body {
+    background: black;
+    color: white;
+    display: block;
+    font-family: Comic Sans MS;
+}
+
+header {
+    display: flex;
+}
+
+header img {
+    width: 100px;
+}
+
+.img {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+footer a {
+    border-radius: 52px;
+    font-size: 40px;
+    color: white;
+    padding: 10px;
+}
+
+footer p {
+    text-align: center;
+}
